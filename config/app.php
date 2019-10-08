@@ -175,7 +175,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
-        Barryvdh\Debugbar\ServiceProvider::class, //追記
+        //Barryvdh\Debugbar\ServiceProvider::class, //追記
         Collective\Html\HtmlServiceProvider::class,
     ],
 
